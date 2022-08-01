@@ -18,3 +18,10 @@
   flex-direction: row;
   justify-content: space-evenly;
 }
+
+button {
+  background-color: bisque;
+  border-color: antiquewhite;
+  height: 70px;
+  width: 70px;
+}
